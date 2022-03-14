@@ -2,55 +2,46 @@
 
 # Project Name
 
-> Description the project.
+> This is the Hello Microverse Project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[No Demos Available](https://livedemo.com)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+### To get a local copy up and running follow these simple example steps.
 
+#### Prerequisites
+1.  Access to a computer and a Web Browser.
 
-To get a local copy up and running follow these simple example steps.
+2. Text editor
+#### Setup
+1.  Use the following link to clone the repo on your computer: https://github.com/abelagza/Hello_Microverse.git
 
-### Prerequisites
+2.  Run the HTML file using your preferred web browser
 
-### Setup
+#### Install
 
-### Install
+#### Usage
 
-### Usage
-
-### Run tests
-
-### Deployment
-
+#### Run tests
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@abelagza](https://github.com/githubhandle)
+- Twitter: [@abelagza](https://twitter.com/twitterhandle)
+- LinkedIn: [abelagza](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
