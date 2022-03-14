@@ -20,11 +20,13 @@
 ### To get a local copy up and running follow these simple example steps.
 
 #### Prerequisites
-- Access to a computer and a Web Browser.
-- Text editor
+1.  Access to a computer and a Web Browser.
+
+2. Text editor
 #### Setup
-- Use the following link to clone the repo on your computer: https://github.com/abelagza/Hello_Microverse.git
-- Run the HTML file using your preferred web browser
+1.  Use the following link to clone the repo on your computer: https://github.com/abelagza/Hello_Microverse.git
+
+2.  Run the HTML file using your preferred web browser
 
 #### Install
 
